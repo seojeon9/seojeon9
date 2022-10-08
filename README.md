@@ -32,7 +32,7 @@ I'm working hard for a wider future than now!✨<br>
 <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
 <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<a href="https://hub.docker.com/u/seojeon9"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </div>
 <div>
@@ -54,7 +54,7 @@ I'm working hard for a wider future than now!✨<br>
 </div>
 
 <div>
-<h2>:memo:MY BLOG:memo:</h2>
+<h2>:memo:MY PAGE:memo:</h2>
  <a href="https://seojeong-99.tistory.com/" ><img src="https://img.shields.io/badge/tistory-80FF00?style=for-the-badge&Tistory=django&logoColor=white"></a>
  <a href="https://www.notion.so/seojeon9/" ><img src="https://img.shields.io/badge/notion-FFEA00?style=for-the-badge&Notion=django&logoColor=white"></a>
 </div>
