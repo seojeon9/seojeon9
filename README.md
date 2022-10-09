@@ -13,8 +13,6 @@ I'm working hard for a wider future than now!✨<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojeon9&layout=compact)](https://github.com/seojeon9/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojeon9)](https://github.com/seojeon9/github-readme-stats)
-
 <h2>:computer:STACKS:computer:</h2>
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
