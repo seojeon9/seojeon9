@@ -54,6 +54,6 @@ I'm working hard for a wider future than now!✨<br>
 <div>
 <h2>:memo:MY PAGE:memo:</h2>
  <a href="https://seojeong-99.tistory.com/" ><img src="https://img.shields.io/badge/tistory-80FF00?style=for-the-badge&logo=Tistory&logoColor=black"></a>
- <a href="seojeon9.notion.site" ><img src="https://img.shields.io/badge/notion-FFEA00?style=for-the-badge&logo=Notion&logoColor=black"></a>
+ <a href="https://seojeon9.notion.site" ><img src="https://img.shields.io/badge/notion-FFEA00?style=for-the-badge&logo=Notion&logoColor=black"></a>
 </div>
 </div>
