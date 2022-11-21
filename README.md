@@ -36,24 +36,20 @@ I'm working hard for a wider future than now!✨<br>
 <div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
-<div>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 <div>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=Microsoft Teams&logoColor=white">
 </div>
 
 <div>
 <h2>:memo:MY PAGE:memo:</h2>
- <a href="https://seojeong-99.tistory.com/" ><img src="https://img.shields.io/badge/tistory-80FF00?style=for-the-badge&logo=Tistory&logoColor=black"></a>
- <a href="https://seojeon9.notion.site" ><img src="https://img.shields.io/badge/notion-FFEA00?style=for-the-badge&logo=Notion&logoColor=black"></a>
+ <a href="https://seojeong-99.tistory.com/" ><img src="https://img.shields.io/badge/tistory-3CB371?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+ <a href="https://seojeon9.notion.site/8d45876c2934488290c52098e302541f" ><img src="https://img.shields.io/badge/notion-FFEA00?style=for-the-badge&logo=Notion&logoColor=black"></a>
 </div>
 </div>
