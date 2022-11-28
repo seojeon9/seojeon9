@@ -7,11 +7,8 @@ Hi, thank you for visiting my Github<br>
 I’m currently learning data engineering<br>
 I'm working hard for a wider future than now!✨<br>
 </p>
-<h2></h2>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseojeon9%2Fseojeon9.git&count_bg=%23454545&title_bg=%2300AAFF&icon=&icon_color=%23454545FFFFFF&title=hits&edge_flat=false)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojeon9&layout=compact)](https://github.com/seojeon9/github-readme-stats)
 
 <h2>:computer:STACKS:computer:</h2>
 <div>
