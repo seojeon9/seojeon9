@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/72624263/194699296-7f0a3f22-7caa-4712-898b-1ce78fccbd83.png)
 
 Hi, thank you for visiting my Github<br>
-I’m currently learning data engineering<br>
+I’m currently learning data engineering and Cloud Infrastructure<br>
 I'm working hard for a wider future than now!✨<br>
 </p>
 
@@ -50,3 +50,4 @@ I'm working hard for a wider future than now!✨<br>
  <a href="https://seojeon9.notion.site/8d45876c2934488290c52098e302541f" ><img src="https://img.shields.io/badge/notion-FFEA00?style=for-the-badge&logo=Notion&logoColor=black"></a>
 </div>
 </div>
+
