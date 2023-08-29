@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/72624263/194699296-7f0a3f22-7caa-4712-898b-1ce78fccbd83.png)
 
 Hi, thank you for visiting my Github<br>
-I’m currently studying Data Engineering and Cloud Infrastructure<br>
+I currently work as a <b>Data Engineer</b> and <b>Python Developer</b><br>
 I'm working hard for a wider future than now!✨<br>
 </p>
 
@@ -20,6 +20,7 @@ I'm working hard for a wider future than now!✨<br>
 </div>
 <div>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </div>
@@ -27,6 +28,11 @@ I'm working hard for a wider future than now!✨<br>
 <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black">
 <img src="https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
+<img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+</div>
+<div>
+<img src="https://img.shields.io/badge/elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> 
+<img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"> 
 <a href="https://hub.docker.com/u/seojeon9"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 </div>
@@ -38,7 +44,7 @@ I'm working hard for a wider future than now!✨<br>
 </div>
 <div>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
 <img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=Microsoft Teams&logoColor=white">
