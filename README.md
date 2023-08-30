@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/72624263/194699296-7f0a3f22-7caa-4712-898b-1ce78fccbd83.png)
 
 Hi, thank you for visiting my Github<br>
-I currently work as a <b>Data Engineer</b> and <b>Python Developer</b><br>
+I currently work as a <b>Data Engineer</b><br>
 I'm working hard for a wider future than now!✨<br>
 </p>
 
