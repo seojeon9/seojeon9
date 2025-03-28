@@ -8,8 +8,6 @@ I currently work as a <b>Data Engineer</b><br>
 I'm working hard for a wider future than now!✨<br>
 </p>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseojeon9%2Fseojeon9.git&count_bg=%23454545&title_bg=%2300AAFF&icon=&icon_color=%23454545FFFFFF&title=hits&edge_flat=false)
-
 <h2>:computer:STACKS:computer:</h2>
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
